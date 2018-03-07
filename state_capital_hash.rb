@@ -1,3 +1,5 @@
+### A Ruby hash list of U.S. states and their respective capitals. 
+
 def capital_hash
 	{"Alabama" => "Montgomery",
 	"Alaska" => "Juneau",
